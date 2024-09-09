@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 10.99,
+      "category": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 9.99,
+      "category": "Dystopian"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 8.99,
+      "category": "Classics"
+    },
+    {
+      "id": 4,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 7.99,
+      "category": "Literature"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 6.99,
+      "category": "Romance"
+    },
+    {
+      "id": 6,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "price": 11.99,
+      "category": "Adventure"
+    }
+  ]
+  
